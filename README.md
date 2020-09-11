@@ -30,5 +30,7 @@ Instructor: [Ryan Ahmed](https://www.coursera.org/instructor/~48777395) ([Course
 
   > This course runs on Coursera's hands-on platform called Rhyme. On Rhyme, you do projects in a hands-on manner in your browser. You will get instant access to pre-configured cloud desktops that have all the software and data you will need. So, you can just focus on the learning. For this project, this means instant access to a cloud desktop with Python, Jupyter, and TensorFlow pre-installed.
 
-### Certificado
-Validação Online: http://coursera.org/verify/MXKWT73MVJ6A
+### Certificate
+Online Validation: http://coursera.org/verify/MXKWT73MVJ6A
+
+![Certificate](Certificado.png)
