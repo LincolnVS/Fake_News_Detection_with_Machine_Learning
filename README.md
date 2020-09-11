@@ -1,6 +1,6 @@
 # [Course] Fake News Detection with Machine Learning
 
-Instructor: Ryan Ahmed
+Instructor: Ryan Ahmed ([Coursera](https://www.coursera.org/instructor/~48777395))
 
 ### Course Objectives
   In this course, we are going to focus on the following learning objectives:
